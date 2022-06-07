@@ -43,7 +43,7 @@ Give credit here.
 
 
 ## Contact
-Created by [kiransview] - feel free to contact me!
+Created by [@kiransview] - feel free to contact me!
 
 
 <!-- Optional -->
